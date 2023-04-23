@@ -1,0 +1,14 @@
+{
+  "name": "prompt-sync",
+  "version": "4.2.0",
+  "description": "fda",
+  "main": "index.js",
+  "scripts": {
+    "test": "prompt();"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "prompt-sync": "^4.2.0"
+  }
+}
